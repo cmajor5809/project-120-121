@@ -1,0 +1,16 @@
+h1{
+    color:red;
+}
+#google_lens_img{
+    height:10%;
+    width:5%;
+}
+#vs{
+    color:red;
+}
+#google_lens_text{
+    text-shadow: dimgrey;
+}
+.mobilenet_text{
+    box-shadow: 5px 5px 5px grey;
+}
